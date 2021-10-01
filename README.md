@@ -2,9 +2,7 @@
 
 So with the invention of [MobileNet](https://arxiv.org/pdf/1704.04861.pdf) series of CNN models, detection and classification tasks which required high-end hardware for speed and accuracy, were introduced to mobile hardware with limited computing resources. Consequently, with the help of these kind of models state-of-the-art performance was achieved even on cheaper hardware dev boards such as raspberry-pi and arduino. This idea of "mobile-classifier" follows the same intrinsic principles of Mobilenet based classifier with a small modification applied to it's end layer.  
 
-The main goal which is intended to be achieved: attain faster inference time for mobile-classifier on Raspberry-Pi when compared with parametric MobileNet classifier. Please refer this page to understand the concept, the difference between mobile-classifier and parametric MobileNet classifier.
-
-* Experimental results are documented [here]().
+The main goal which is intended to be achieved: attain faster inference time for mobile-classifier on Raspberry-Pi when compared with parametric MobileNet classifier. Please refer this page to understand the concept, the difference between mobile-classifier and parametric MobileNet classifier. Experimental results are discussed and documented [here](https://github.com/rahulmangalampalli/Mobile-Classifier/blob/main/EXPERIMENT.md).
 
 ## Usage:
 
