@@ -4,6 +4,8 @@ So with the invention of [MobileNet](https://arxiv.org/pdf/1704.04861.pdf) serie
 
 The main goal which is intended to be achieved: attain faster inference time for mobile-classifier on Raspberry-Pi when compared with parametric MobileNet classifier. Please refer this page to understand the concept, the difference between mobile-classifier and parametric MobileNet classifier.
 
+* Experimental results are documented [here]().
+
 ## Usage:
 
 * Required OS: Linux(Raspbian for raspberry-pi or Ubuntu for x86)
