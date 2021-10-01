@@ -77,4 +77,4 @@ sudo make all
 
 ## Credits:[Boilerplate](https://github.com/googlecreativelab/teachable-machine-boilerplate), [Teachable Machine](https://teachablemachine.withgoogle.com/)  
 
-## This project was made in collaboration with IoTIoT.in, please visit their visit for more information:[link](http://iotiot.in/)
+## This project was made in collaboration with [IoTIoT.in](http://iotiot.in/), please visit their visit for more information.
