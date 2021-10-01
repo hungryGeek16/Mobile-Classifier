@@ -10,3 +10,13 @@ pip3 install protobuf==3.11.3
 sudo apt-get install -y libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev # Storage formats 
 sudo apt-get install -y python3-dev 
 sudo apt-get install -y libgflags-dev libgoogle-glog-dev liblmdb-dev # Flag libraries
+sudo apt-get install autoconf automake libtool curl make g++ unzip cpio wget 
+wget https://github.com/protocolbuffers/protobuf/releases/download/v3.11.4/protobuf-cpp-3.11.4.zip
+unzip protobuf-cpp-3.11.4.zip 
+cd protobuf-3.11.4
+./configure
+make
+make check
+sudo make install
+sudo ldconfig
+
