@@ -75,7 +75,6 @@ sudo make all
 **Note: labels.txt and train.knn must be present in the same directory of execution while inferencing.**
 
 
-## Credits:[Boilerplate](https://github.com/googlecreativelab/teachable-machine-boilerplate)  
-[Teachable Machine](https://teachablemachine.withgoogle.com/)  
+## Credits:[Boilerplate](https://github.com/googlecreativelab/teachable-machine-boilerplate), [Teachable Machine](https://teachablemachine.withgoogle.com/)  
 
 ## This project was made in collaboration with IoTIoT.in, please visit their visit for more information:[link](http://iotiot.in/)
